@@ -1,0 +1,24 @@
+{
+  "heading": "OUR SERVICES",
+  "items": [
+    {
+      "id": 1,
+      "icon": "Camera",
+      "title": "Photography",
+      "description": "Professional photography services capturing your most precious moments with artistic precision and attention to detail."
+    },
+    {
+      "id": 2,
+      "icon": "Video",
+      "title": "Videography",
+      "description": "Cinematic video production that brings your story to life through stunning visuals and compelling narratives."
+    },
+    {
+      "id": 3,
+      "icon": "Plane",
+      "title": "Drone Art",
+      "description": "Breathtaking aerial perspectives that showcase your event from unique and spectacular angles."
+    }
+  ]
+}
+

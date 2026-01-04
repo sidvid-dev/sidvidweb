@@ -1,0 +1,30 @@
+{
+  "heading": "WHAT OUR CLIENTS SAY",
+  "items": [
+    {
+      "id": 1,
+      "name": "Sarah Johnson",
+      "location": "New York, NY",
+      "text": "Working with this team was an absolute dream! They captured every precious moment of our wedding day with such artistry and professionalism. The photos are breathtaking and we will treasure them forever.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Michael Chen",
+      "location": "San Francisco, CA",
+      "text": "The attention to detail and creative vision exceeded all our expectations. Every shot tells a story, and the final collection is nothing short of spectacular. Highly recommend!",
+      "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+      "rating": 5
+    },
+    {
+      "id": 3,
+      "name": "Emily Rodriguez",
+      "location": "Austin, TX",
+      "text": "From our engagement session to the wedding day, the experience was flawless. They made us feel comfortable and the results speak for themselves. Truly talented professionals!",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+      "rating": 5
+    }
+  ]
+}
+

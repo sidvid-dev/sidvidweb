@@ -1,0 +1,16 @@
+{
+  "quickLinks": [
+    { "name": "Home", "href": "#home" },
+    { "name": "About", "href": "#about" },
+    { "name": "Portfolio", "href": "#portfolio" },
+    { "name": "Contact", "href": "#contact" }
+  ],
+  "services": [
+    "Photography",
+    "Videography",
+    "Drone Art",
+    "Event Coverage"
+  ],
+  "copyright": "© {year} Your Brand. All rights reserved."
+}
+

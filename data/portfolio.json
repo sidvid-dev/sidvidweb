@@ -1,0 +1,34 @@
+{
+  "heading": "PORTFOLIO",
+  "items": [
+    {
+      "id": 1,
+      "title": "Wedding Collection",
+      "category": "WEDDINGS",
+      "image": "https://images.unsplash.com/photo-1606800052052-a08af7148866?w=800&q=80",
+      "alt": "Beautiful wedding photography collection"
+    },
+    {
+      "id": 2,
+      "title": "Engagement Sessions",
+      "category": "ENGAGEMENTS",
+      "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=800&q=80",
+      "alt": "Romantic engagement photography sessions"
+    },
+    {
+      "id": 3,
+      "title": "Portrait Gallery",
+      "category": "PORTRAITS",
+      "image": "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&q=80",
+      "alt": "Professional portrait photography"
+    },
+    {
+      "id": 4,
+      "title": "Event Coverage",
+      "category": "EVENTS",
+      "image": "https://images.unsplash.com/photo-1511795409834-ef04bbd61622?w=800&q=80",
+      "alt": "Professional event photography coverage"
+    }
+  ]
+}
+

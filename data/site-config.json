@@ -1,0 +1,25 @@
+{
+  "brandName": "YOUR BRAND",
+  "tagline": "CRAFTING BEAUTIFUL EXPERIENCES FOR GENUINE CONNECTIONS",
+  "description": "Creating timeless memories through exceptional photography and videography.",
+  "contact": {
+    "email": "info@yourbrand.com",
+    "phone": "+1 (555) 123-4567",
+    "address": {
+      "street": "123 Main Street",
+      "cityState": "City, State 12345"
+    }
+  },
+  "whatsapp": {
+    "number": "1234567890",
+    "greeting": "How can we make your day better?",
+    "replyTime": "Typical reply within a few hours",
+    "defaultMessage": "Hello! I would like to inquire about your photography services."
+  },
+  "seo": {
+    "title": "Your Brand - Professional Photography & Videography",
+    "description": "Creating timeless memories through exceptional photography, videography, and drone art services.",
+    "keywords": ["photography", "videography", "wedding photography", "drone art", "event coverage"]
+  }
+}
+

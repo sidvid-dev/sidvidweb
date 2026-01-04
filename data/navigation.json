@@ -1,0 +1,12 @@
+{
+  "logo": "YOUR BRAND",
+  "links": [
+    { "name": "HOME", "href": "#home" },
+    { "name": "ABOUT", "href": "#about" },
+    { "name": "SERVICES", "href": "#services" },
+    { "name": "PORTFOLIO", "href": "#portfolio" },
+    { "name": "TESTIMONIALS", "href": "#testimonials" },
+    { "name": "CONTACT", "href": "#contact" }
+  ]
+}
+
